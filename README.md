@@ -1,3 +1,4 @@
+<img src="https://profile-counter.glitch.me/manish0423/count.svg" />
 - 👋 Hi, I’m @manish0423
 - 👀 I’m interested in Java and Web Development .
 - 🌱 I’m currently learning Javascript,PHP,Python and Android .

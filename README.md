@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @manish0423
 - 👀 I’m interested in Java and Web Development .
-- 🌱 I’m currently learning Javascript,PHP,Python and Android .
+- 🌱 I’m currently exploring spring boot.
 - 📫 How to reach me ...manishambuse2003@gmail.com
 
 <!---
